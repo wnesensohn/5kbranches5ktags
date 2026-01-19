@@ -27,6 +27,7 @@ rand-31740-22090
 rand-9648-15626
 rand-12551-31494
 rand-12956-22342
+rand-512-21008
 rand-7828-19117
 rand-31342-29984
 rand-16851-20942
@@ -605,7 +606,6 @@ initial line 476
 initial line 477
 initial line 478
 initial line 479
-initial line 480
 initial line 481
 initial line 482
 rand-5649-16629
@@ -1092,11 +1092,11 @@ initial line 915
 initial line 916
 initial line 917
 initial line 918
-initial line 919
-initial line 920
-initial line 921
-initial line 922
-initial line 923
+modified-1095-1
+modified-1096-1768837434
+modified-1097-1768837434
+modified-1098-1768837434
+modified-1099-1768837434
 initial line 924
 rand-18743-7827
 rand-1093-22444
@@ -1128,6 +1128,12 @@ modified-946-1768837055
 modified-924-1768836918
 modified-925-1768836918
 modified-926-1768836918
+rand-8050-16147
+rand-712-23636
+rand-12578-13723
+rand-25320-21213
+rand-22378-26936
+rand-28429-5378
 rand-3236-30993
 rand-21354-27688
 rand-28683-26189
