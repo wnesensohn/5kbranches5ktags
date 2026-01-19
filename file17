@@ -411,9 +411,6 @@ initial line 384
 initial line 385
 initial line 386
 initial line 388
-initial line 389
-initial line 390
-initial line 391
 initial line 392
 initial line 393
 initial line 394
@@ -663,9 +660,6 @@ initial line 627
 initial line 628
 initial line 629
 initial line 630
-initial line 631
-initial line 632
-initial line 633
 initial line 634
 initial line 635
 initial line 636
@@ -1011,7 +1005,7 @@ initial line 967
 initial line 968
 initial line 969
 initial line 970
-initial line 971
+modified-1014-1
 initial line 972
 initial line 973
 initial line 974
@@ -1037,6 +1031,13 @@ rand-11738-23094
 rand-416-19015
 initial line 988
 initial line 989
+rand-24080-25754
+rand-1992-25490
+rand-6816-6989
+rand-11461-11020
+rand-17134-4086
+rand-6756-14744
+rand-21827-30142
 initial line 990
 initial line 991
 initial line 992
